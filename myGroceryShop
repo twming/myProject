@@ -1,0 +1,7 @@
+Create nodejs express starting template call “myProject”, is a grocery online shop.
+I have few customers, i need them to login to user "test@test.com" and password "test” in “/” route. Create a simple data model for it and validate the email, prompt error for invalid email.
+After login, user is directed to “/” a welcome page, displaying ”welcome.jpg” at the welcome folder.
+add menu with "product”, “add product” and ”back”, create html and css template for menu. The menu is at the top of each page.
+The “product” menu display the product image in the “images” folder, each product as a name same as file. 
+The “add product” menu allow user to add new product image to the ”image” folder and display in the “product” menu.
+“back” menu bring user back to the “/” route, the “/” route display a welcome page
